@@ -32,7 +32,7 @@
 <img width="1021" height="907" alt="manage book" src="https://github.com/user-attachments/assets/c2134eeb-d0b9-492d-bb6d-f3a6afe23731" />
 
 * **Manage User Page**
-* <img width="1761" height="816" alt="manage user" src="https://github.com/user-attachments/assets/4933c78d-1cf9-4d32-8a4b-3a1ffe527227" />
+<img width="1761" height="816" alt="manage user" src="https://github.com/user-attachments/assets/4933c78d-1cf9-4d32-8a4b-3a1ffe527227" />
 
 * **View User Page**
 <img width="1807" height="830" alt="view user" src="https://github.com/user-attachments/assets/8b97e5db-0f83-4a51-a9cb-2b34d61c0ede" />
